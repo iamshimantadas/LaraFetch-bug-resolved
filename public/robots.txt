@@ -1,0 +1,15 @@
+User-agent: * /
+
+Disallow: 
+/admin
+/admin_login 
+/admin_dashboard
+/admin_file
+/admin_file_upload
+/admin_links
+/admin_logout
+/admin_timer
+/admin_timer_req
+/admin_file_modify
+/admin_file_modify_req
+/admin_post_search
